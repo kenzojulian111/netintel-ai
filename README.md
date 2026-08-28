@@ -1,2 +1,2 @@
 # netintel-ai
-AI-powered network telemetry and traffic analysis tool with packet capture, performance monitoring, and anomaly detection
+Python-based network intelligence tool for packet capture, traffic analysis, network telemetry, and ML-based anomaly detection
